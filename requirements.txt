@@ -1,0 +1,8 @@
+langchain>=0.2.0
+langgraph>=0.2.0
+langchain-openai
+openai
+pypdf
+tiktoken
+python-dotenv
+langchain-groq
